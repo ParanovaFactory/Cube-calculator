@@ -1,0 +1,9 @@
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\bin\Debug\Küp Hesap Metot.exe.config
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\bin\Debug\Küp Hesap Metot.exe
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\bin\Debug\Küp Hesap Metot.pdb
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\obj\Debug\Küp_Hesap_Metot.Form1.resources
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\obj\Debug\Küp_Hesap_Metot.Properties.Resources.resources
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\obj\Debug\Küp Hesap Metot.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\obj\Debug\Küp Hesap Metot.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\obj\Debug\Küp Hesap Metot.exe
+O:\Udemy\Udemy C# Örnekleri\Küp Hesap Metot\Küp Hesap Metot\obj\Debug\Küp Hesap Metot.pdb
